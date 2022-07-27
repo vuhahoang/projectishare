@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Xuser/Xuser.iml" filepath="$PROJECT_DIR$/Xuser/Xuser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projectishare.iml" filepath="$PROJECT_DIR$/.idea/projectishare.iml" />
+    </modules>
+  </component>
+</project>
